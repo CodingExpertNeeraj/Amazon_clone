@@ -270,4 +270,43 @@ ul a{
     background-color: #222f3d;
     color: white;
     border-top: 0px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+.logo{
+    background-image: url("amazon_logo.png");
+    width: 100px;
+}
+.foot-panel4{
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+    text-align: center;
+}
+.foot-panel4 a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+.pages{
+    padding-top: 25px;
+    /* text-align: center; */
+}
+.copyright{
+    font-size: 12px;
+    padding-top: 5px;
+    /* text-align: center; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
